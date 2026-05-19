@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "श्रीकृष्ण",
+    "englishName": "Shri Krishna",
+    "role": "भगवान, अर्जुन के सारथी",
+    "descriptionHindi": "श्रीकृष्ण भगवद्गीता के उपदेशक हैं। उन्होंने अर्जुन को कर्म, भक्ति और ज्ञान योग का उपदेश दिया।",
+    "descriptionEnglish": "Shri Krishna is the divine charioteer of Arjuna and the speaker of the Bhagavad Gita, teaching Karma, Bhakti, and Jnana Yoga."
+  },
+  {
+    "id": 2,
+    "name": "अर्जुन",
+    "englishName": "Arjuna",
+    "role": "पांडव योद्धा",
+    "descriptionHindi": "अर्जुन पांडवों के महान धनुर्धर हैं। गीता का उपदेश उन्हें युद्धभूमि में दिया गया।",
+    "descriptionEnglish": "Arjuna is the greatest archer among the Pandavas and the listener of the Bhagavad Gita."
+  },
+  {
+    "id": 3,
+    "name": "धृतराष्ट्र",
+    "englishName": "Dhritarashtra",
+    "role": "हस्तिनापुर के राजा",
+    "descriptionHindi": "धृतराष्ट्र कौरवों के पिता और जन्म से अंधे राजा थे।",
+    "descriptionEnglish": "Dhritarashtra was the blind king of Hastinapur and father of the Kauravas."
+  },
+  {
+    "id": 4,
+    "name": "संजय",
+    "englishName": "Sanjaya",
+    "role": "राजा का सारथी",
+    "descriptionHindi": "संजय को दिव्य दृष्टि प्राप्त थी और उन्होंने युद्ध का वर्णन धृतराष्ट्र को किया।",
+    "descriptionEnglish": "Sanjaya narrated the entire Kurukshetra war to Dhritarashtra using divine vision."
+  },
+  {
+    "id": 5,
+    "name": "भीष्म",
+    "englishName": "Bhishma",
+    "role": "कौरव सेनापति",
+    "descriptionHindi": "भीष्म प्रतिज्ञा के लिए प्रसिद्ध महान योद्धा थे।",
+    "descriptionEnglish": "Bhishma was a mighty warrior known for his vow and was the commander of the Kaurava army."
+  },
+  {
+    "id": 6,
+    "name": "द्रोणाचार्य",
+    "englishName": "Dronacharya",
+    "role": "गुरु",
+    "descriptionHindi": "द्रोणाचार्य पांडवों और कौरवों के गुरु थे।",
+    "descriptionEnglish": "Dronacharya was the teacher of both Pandavas and Kauravas."
+  },
+  {
+    "id": 7,
+    "name": "कर्ण",
+    "englishName": "Karna",
+    "role": "कौरव योद्धा",
+    "descriptionHindi": "कर्ण दानवीर और अर्जुन के समान शक्तिशाली योद्धा थे।",
+    "descriptionEnglish": "Karna was a great warrior, known for his generosity and rivalry with Arjuna."
+  },
+  {
+    "id": 8,
+    "name": "युधिष्ठिर",
+    "englishName": "Yudhishthira",
+    "role": "पांडवों के राजा",
+    "descriptionHindi": "युधिष्ठिर धर्मराज के नाम से प्रसिद्ध थे।",
+    "descriptionEnglish": "Yudhishthira was the eldest Pandava, known for righteousness."
+  },
+  {
+    "id": 9,
+    "name": "भीम",
+    "englishName": "Bhima",
+    "role": "पांडव योद्धा",
+    "descriptionHindi": "भीम अपनी अपार शक्ति के लिए प्रसिद्ध थे।",
+    "descriptionEnglish": "Bhima was known for his immense physical strength."
+  },
+  {
+    "id": 10,
+    "name": "नकुल",
+    "englishName": "Nakula",
+    "role": "पांडव",
+    "descriptionHindi": "नकुल सुंदरता और तलवारबाजी में निपुण थे।",
+    "descriptionEnglish": "Nakula was skilled in swordsmanship and known for his beauty."
+  },
+  {
+    "id": 11,
+    "name": "सहदेव",
+    "englishName": "Sahadeva",
+    "role": "पांडव",
+    "descriptionHindi": "सहदेव बुद्धिमान और ज्योतिष ज्ञान में निपुण थे।",
+    "descriptionEnglish": "Sahadeva was wise and skilled in astrology."
+  },
+  {
+    "id": 12,
+    "name": "दुर्योधन",
+    "englishName": "Duryodhana",
+    "role": "कौरवों का नेता",
+    "descriptionHindi": "दुर्योधन कौरवों का राजा और पांडवों का मुख्य विरोधी था।",
+    "descriptionEnglish": "Duryodhana was the leader of the Kauravas and main antagonist."
+  },
+  {
+    "id": 13,
+    "name": "दुःशासन",
+    "englishName": "Dushasana",
+    "role": "कौरव",
+    "descriptionHindi": "दुःशासन द्रौपदी के अपमान के लिए जाना जाता है।",
+    "descriptionEnglish": "Dushasana is infamous for humiliating Draupadi."
+  },
+  {
+    "id": 14,
+    "name": "द्रौपदी",
+    "englishName": "Draupadi",
+    "role": "पांडव पत्नी",
+    "descriptionHindi": "द्रौपदी पांचों पांडवों की पत्नी थीं।",
+    "descriptionEnglish": "Draupadi was the wife of the five Pandavas."
+  },
+  {
+    "id": 15,
+    "name": "अभिमन्यु",
+    "englishName": "Abhimanyu",
+    "role": "पांडव योद्धा",
+    "descriptionHindi": "अभिमन्यु अर्जुन के पुत्र और वीर योद्धा थे।",
+    "descriptionEnglish": "Abhimanyu was Arjuna’s brave son."
+  }
+]

@@ -1,0 +1,129 @@
+[
+  {
+    "id": 1,
+    "name": "अर्जुन विषाद योग",
+    "summary": "कुरुक्षेत्र के युद्धभूमि में अर्जुन अपने स्वजनों को देखकर शोक, मोह और कर्तव्य को लेकर भ्रम में पड़ जाता है। युद्धभूमि में Arjuna अपने ही रिश्तेदारों, गुरुओं और मित्रों को देखकर दुखी हो जाते हैं। वे युद्ध करने से मना कर देते हैं। 👉 शिक्षा: कठिन परिस्थितियों में मनुष्य भ्रम और कमजोरी महसूस करता है।",
+    "summary_eng" : "Scene: Battlefield of Kurukshetra Arjuna sees his relatives, teachers, and friends on both sides. He becomes emotional, confused, and refuses to fight. Teaches: Human confusion, emotional breakdown before decision-making",
+    "totalVerses": 47
+  },
+  {
+    "id": 2,
+    "name": "सांख्य योग",
+    "summary": "भगवान श्रीकृष्ण आत्मा की अमरता, शरीर की नश्वरता और निष्काम कर्मयोग का उपदेश देते हैं।",
+    "summary_eng" : "Krishna begins teaching. Soul (Atma) is eternal; body is temporary. Introduces Karma Yoga (duty without attachment) Famous concept: Do your duty, don’t expect results",
+    "totalVerses": 72
+  },
+  {
+    "id": 3,
+    "name": "कर्म योग",
+    "summary": "इस अध्याय में आसक्ति रहित कर्म करने और लोकसंग्रह के महत्व को समझाया गया है।",
+    "summary_eng" : "Action is necessary; no one can stay inactive Do work selflessly (Nishkam Karma) Work should be done as a duty, not for reward",
+    "totalVerses": 43
+  },
+  {
+    "id": 4,
+    "name": "ज्ञान कर्म संन्यास योग",
+    "summary": "ज्ञान, कर्म और अवतार के रहस्य को स्पष्ट करते हुए श्रीकृष्ण अपने दिव्य अवतारों का उद्देश्य बताते हैं।",
+    "summary_eng" : "Knowledge removes ignorance Krishna explains divine incarnations (Avatars) True knowledge leads to liberation",
+    "totalVerses": 42
+  },
+  {
+    "id": 5,
+    "name": "कर्म संन्यास योग",
+    "summary": "कर्मयोग और संन्यास की तुलना करते हुए कर्मयोग को श्रेष्ठ बताया गया है।",
+    "summary_eng" : "Compares renunciation vs action Conclusion: Selfless action is better than complete renunciation Peace comes from detachment",
+    "totalVerses": 29
+  },
+  {
+    "id": 6,
+    "name": "ध्यान योग",
+    "summary": "इस अध्याय में ध्यान, मन की एकाग्रता और आत्मसंयम द्वारा आत्मसाक्षात्कार का मार्ग बताया गया है।",
+    "summary_eng" : "Focus on meditation and mind control Mind can be friend or enemy Balanced life (food, sleep, habits) is important",
+    "totalVerses": 47
+  },
+  {
+    "id": 7,
+    "name": "ज्ञान विज्ञान योग",
+    "summary": "भगवान अपने स्वरूप, प्रकृति और परम सत्य के ज्ञान को विज्ञान सहित प्रकट करते हैं।",
+    "summary_eng" : "Krishna explains his true nature Everything in universe comes from him Few people truly understand divine truth",
+    "totalVerses": 30
+  },
+  {
+    "id": 8,
+    "name": "अक्षर ब्रह्म योग",
+    "summary": "मृत्यु के समय स्मरण, अक्षर ब्रह्म और मोक्ष प्राप्ति के रहस्य को समझाया गया है।",
+    "summary_eng" : "Explains death and afterlife Remembering God at time of death leads to liberation Concept of eternal Brahman",
+    "totalVerses": 28
+  },
+  {
+    "id": 9,
+    "name": "राज विद्या राज गुह्य योग",
+    "summary": "भक्ति का सर्वोच्च ज्ञान और भगवान की सर्वव्यापकता को गुप्त रहस्य के रूप में बताया गया है।",
+    "summary_eng" : "Most secret and powerful knowledge God is everywhere and in everything Bhakti (devotion) is the easiest path",
+    
+    "totalVerses": 34
+  },
+  {
+    "id": 10,
+    "name": "विभूति योग",
+    "summary": "भगवान श्रीकृष्ण अपनी दिव्य विभूतियों और ऐश्वर्य का विस्तार से वर्णन करते हैं।",
+    "summary_eng" : "Krishna describes his divine manifestations He exists in all greatness (sun, mountains, wisdom, etc.) Helps develop devotion through recognition",
+    "totalVerses": 42
+  },
+  {
+    "id": 11,
+    "name": "विश्वरूप दर्शन योग",
+    "summary": "अर्जुन भगवान के विराट और दिव्य विश्वरूप का साक्षात दर्शन करता है।",
+    "summary_eng" : "Krishna shows universal form to Arjuna Arjuna sees entire universe in Krishna Demonstrates divine power and destiny",
+    "totalVerses": 55
+  },
+  {
+    "id": 12,
+    "name": "भक्ति योग",
+    "summary": "शुद्ध भक्ति, भक्त के गुण और भगवान को प्रिय भक्त के लक्षण बताए गए हैं।",
+    "summary_eng" : "Path of devotion explained Loving God with faith is easiest and most effective Qualities of true devotee (humble, kind, peaceful)",
+    "totalVerses": 20
+  },
+  {
+    "id": 13,
+    "name": "क्षेत्र क्षेत्रज्ञ विभाग योग",
+    "summary": "शरीर (क्षेत्र) और आत्मा (क्षेत्रज्ञ) के भेद तथा ज्ञान का वर्णन किया गया है।",
+    "summary_eng" : "Body = Field (Kshetra) Soul = Knower of field (Kshetrajna) Difference between physical and spiritual self",
+    "totalVerses": 35
+  },
+  {
+    "id": 14,
+    "name": "गुणत्रय विभाग योग",
+    "summary": "सत्त्व, रजस और तमस—इन तीन गुणों का स्वभाव और प्रभाव समझाया गया है।",
+    "summary_eng" : "Three qualities of nature: Sattva (purity, knowledge) Rajas (action, desire) Tamas (ignorance, laziness)                                                         Goal: Rise above these gunas",
+    "totalVerses": 27
+  },
+  {
+    "id": 15,
+    "name": "पुरुषोत्तम योग",
+    "summary": "संसार रूपी अश्वत्थ वृक्ष और पुरुषोत्तम परमात्मा का रहस्य प्रकट किया गया है।",
+    "summary_eng" : "Explains Supreme Being (Purushottama) World is like an upside-down tree (illusion) Detach from material world",
+    "totalVerses": 20
+  },
+  {
+    "id": 16,
+    "name": "दैवासुर संपद विभाग योग",
+    "summary": "दैवी और आसुरी स्वभाव के गुणों का स्पष्ट भेद बताया गया है। ",
+    "summary_eng" : "Divine qualities: truth, kindness, self-control Demonic qualities: ego, anger, greed Choose right path",
+    "totalVerses": 24
+  },
+  {
+    "id": 17,
+    "name": "श्रद्धात्रय विभाग योग",
+    "summary": "श्रद्धा के तीन प्रकार तथा आहार, यज्ञ, तप और दान का विश्लेषण किया गया है।",
+    "summary_eng" : "Three types of faith based on gunas Food, worship, and actions reflect personality Right faith leads to growth",
+    "totalVerses": 28
+  },
+  {
+    "id": 18,
+    "name": "मोक्ष संन्यास योग",
+    "summary": "गीता का उपसंहार—कर्म, भक्ति, ज्ञान और पूर्ण शरणागति द्वारा मोक्ष का मार्ग बताया गया है।",
+    "summary_eng" : "Final summary of all teachings Surrender to God (Bhakti + Karma + Jnana) Arjuna gains clarity and decides to fight",
+    "totalVerses": 78
+  }
+]
